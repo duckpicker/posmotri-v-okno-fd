@@ -57,8 +57,7 @@ ol {
 }
 
 .content {
-  margin-left: 19px;
-  margin-top: 195px;
+  padding-bottom: 64px;
   display: grid;
   grid-template-columns: auto auto;
   align-items: end;
